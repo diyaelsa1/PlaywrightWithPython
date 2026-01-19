@@ -1,4 +1,4 @@
-﻿# Playwright With Python - Twitch tv search functionality Test
+﻿# Playwright With Python - Twitch tv Search Functionality Test
 
 This project demonstrates a Playwright-based automation framework built with Python, following the Page Object Model (POM) design pattern. The framework automates test scenarios related to Twitch TV, covering both UI and API testing, and is designed to be scalable, maintainable, and easy to extend.
 
@@ -35,6 +35,7 @@ Stores global Pytest configuration, including default execution options and repo
 
 ## Demo
 ![demo](https://github.com/user-attachments/assets/fcaf4dc5-3fc4-41a1-b933-266d70dd4f81)
+
 
 
 
