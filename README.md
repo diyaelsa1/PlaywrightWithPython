@@ -33,8 +33,10 @@ Defines Pytest fixtures and manages test setup and teardown logic.
 ### pytest.ini
 Stores global Pytest configuration, including default execution options and reporting settings.
 
-## Demo
+## Demo descriptsion:
+Demo illustrates the automated flow of launching Twitch TV, searching for a keyword read from an Excel file, and verifying the searched channel. The test then scrolls the page twice, opens a selected live stream, and waits until the streamer is successfully launched.
 ![demo](https://github.com/user-attachments/assets/fcaf4dc5-3fc4-41a1-b933-266d70dd4f81)
+
 
 
 
